@@ -1,0 +1,122 @@
+5
+1 Y 3
+2 Y 6
+3 Y 4
+4 Y 5
+5 Y 2
+
+ Round Robin Scheduling
+
+At 1s 1 has CPU. Ready queue at the moment:
+[Task{name='1', burstTime=2, state=1, cpuTime=3, arrivalTime=0},
+ Task{name='2', burstTime=6, state=1, cpuTime=0, arrivalTime=1},
+ Task{name='3', burstTime=4, state=1, cpuTime=0, arrivalTime=2},
+ Task{name='4', burstTime=5, state=1, cpuTime=0, arrivalTime=3},
+ Task{name='5', burstTime=2, state=1, cpuTime=0, arrivalTime=4}]
+
+At 2s 1 has CPU. Ready queue at the moment:
+[Task{name='1', burstTime=1, state=1, cpuTime=3, arrivalTime=0},
+ Task{name='2', burstTime=6, state=1, cpuTime=0, arrivalTime=1},
+ Task{name='3', burstTime=4, state=1, cpuTime=0, arrivalTime=2},
+  Task{name='4', burstTime=5, state=1, cpuTime=0, arrivalTime=3},
+  Task{name='5', burstTime=2, state=1, cpuTime=0, arrivalTime=4}]
+
+At 3s 1 has CPU. Ready queue at the moment:
+[Task{name='1', burstTime=0, state=1, cpuTime=3, arrivalTime=0},
+ Task{name='2', burstTime=6, state=1, cpuTime=0, arrivalTime=1},
+  Task{name='3', burstTime=4, state=1, cpuTime=0, arrivalTime=2},
+  Task{name='4', burstTime=5, state=1, cpuTime=0, arrivalTime=3},
+   Task{name='5', burstTime=2, state=1, cpuTime=0, arrivalTime=4}]
+
+At 4s 2 has CPU. Ready queue at the moment:
+[Task{name='2', burstTime=5, state=1, cpuTime=5, arrivalTime=1},
+ Task{name='3', burstTime=4, state=1, cpuTime=0, arrivalTime=2},
+ Task{name='4', burstTime=5, state=1, cpuTime=0, arrivalTime=3},
+  Task{name='5', burstTime=2, state=1, cpuTime=0, arrivalTime=4}]
+
+At 5s 2 has CPU. Ready queue at the moment:
+[Task{name='2', burstTime=4, state=1, cpuTime=5, arrivalTime=1},
+Task{name='3', burstTime=4, state=1, cpuTime=0, arrivalTime=2},
+Task{name='4', burstTime=5, state=1, cpuTime=0, arrivalTime=3},
+Task{name='5', burstTime=2, state=1, cpuTime=0, arrivalTime=4}]
+
+At 6s 2 has CPU. Ready queue at the moment:
+[Task{name='2', burstTime=3, state=1, cpuTime=5, arrivalTime=1},
+Task{name='3', burstTime=4, state=1, cpuTime=0, arrivalTime=2},
+Task{name='4', burstTime=5, state=1, cpuTime=0, arrivalTime=3},
+Task{name='5', burstTime=2, state=1, cpuTime=0, arrivalTime=4}]
+
+At 7s 2 has CPU. Ready queue at the moment:
+[Task{name='2', burstTime=2, state=1, cpuTime=5, arrivalTime=1},
+Task{name='3', burstTime=4, state=1, cpuTime=0, arrivalTime=2},
+Task{name='4', burstTime=5, state=1, cpuTime=0, arrivalTime=3},
+Task{name='5', burstTime=2, state=1, cpuTime=0, arrivalTime=4}]
+
+At 8s 2 has CPU. Ready queue at the moment:
+[Task{name='2', burstTime=1, state=1, cpuTime=5, arrivalTime=1},
+Task{name='3', burstTime=4, state=1, cpuTime=0, arrivalTime=2},
+Task{name='4', burstTime=5, state=1, cpuTime=0, arrivalTime=3},
+Task{name='5', burstTime=2, state=1, cpuTime=0, arrivalTime=4}]
+
+At 9s 3 has CPU. Ready queue at the moment:
+[Task{name='3', burstTime=3, state=1, cpuTime=4, arrivalTime=2},
+Task{name='4', burstTime=5, state=1, cpuTime=0, arrivalTime=3},
+Task{name='5', burstTime=2, state=1, cpuTime=0, arrivalTime=4},
+Task{name='2', burstTime=1, state=1, cpuTime=5, arrivalTime=1}]
+
+At 10s 3 has CPU. Ready queue at the moment:
+[Task{name='3', burstTime=2, state=1, cpuTime=4, arrivalTime=2},
+Task{name='4', burstTime=5, state=1, cpuTime=0, arrivalTime=3},
+Task{name='5', burstTime=2, state=1, cpuTime=0, arrivalTime=4},
+Task{name='2', burstTime=1, state=1, cpuTime=5, arrivalTime=1}]
+
+At 11s 3 has CPU. Ready queue at the moment:
+[Task{name='3', burstTime=1, state=1, cpuTime=4, arrivalTime=2},
+Task{name='4', burstTime=5, state=1, cpuTime=0, arrivalTime=3},
+Task{name='5', burstTime=2, state=1, cpuTime=0, arrivalTime=4},
+Task{name='2', burstTime=1, state=1, cpuTime=5, arrivalTime=1}]
+
+At 12s 3 has CPU. Ready queue at the moment:
+[Task{name='3', burstTime=0, state=1, cpuTime=4, arrivalTime=2},
+Task{name='4', burstTime=5, state=1, cpuTime=0, arrivalTime=3},
+Task{name='5', burstTime=2, state=1, cpuTime=0, arrivalTime=4},
+Task{name='2', burstTime=1, state=1, cpuTime=5, arrivalTime=1}]
+
+At 13s 4 has CPU. Ready queue at the moment:
+[Task{name='4', burstTime=4, state=1, cpuTime=5, arrivalTime=3},
+Task{name='5', burstTime=2, state=1, cpuTime=0, arrivalTime=4},
+Task{name='2', burstTime=1, state=1, cpuTime=5, arrivalTime=1}]
+
+At 14s 4 has CPU. Ready queue at the moment:
+[Task{name='4', burstTime=3, state=1, cpuTime=5, arrivalTime=3},
+Task{name='5', burstTime=2, state=1, cpuTime=0, arrivalTime=4},
+Task{name='2', burstTime=1, state=1, cpuTime=5, arrivalTime=1}]
+
+At 15s 4 has CPU. Ready queue at the moment:
+[Task{name='4', burstTime=2, state=1, cpuTime=5, arrivalTime=3},
+Task{name='5', burstTime=2, state=1, cpuTime=0, arrivalTime=4},
+Task{name='2', burstTime=1, state=1, cpuTime=5, arrivalTime=1}]
+
+At 16s 4 has CPU. Ready queue at the moment:
+[Task{name='4', burstTime=1, state=1, cpuTime=5, arrivalTime=3},
+Task{name='5', burstTime=2, state=1, cpuTime=0, arrivalTime=4},
+Task{name='2', burstTime=1, state=1, cpuTime=5, arrivalTime=1}]
+
+At 17s 4 has CPU. Ready queue at the moment:
+[Task{name='4', burstTime=0, state=1, cpuTime=5, arrivalTime=3},
+Task{name='5', burstTime=2, state=1, cpuTime=0, arrivalTime=4},
+Task{name='2', burstTime=1, state=1, cpuTime=5, arrivalTime=1}]
+
+At 18s 5 has CPU. Ready queue at the moment:
+[Task{name='5', burstTime=1, state=1, cpuTime=2, arrivalTime=4},
+Task{name='2', burstTime=1, state=1, cpuTime=5, arrivalTime=1}]
+
+At 19s 5 has CPU. Ready queue at the moment:
+[Task{name='5', burstTime=0, state=1, cpuTime=2, arrivalTime=4},
+Task{name='2', burstTime=1, state=1, cpuTime=5, arrivalTime=1}]
+
+At 20s 2 has CPU. Ready queue at the moment:
+[Task{name='2', burstTime=0, state=1, cpuTime=1, arrivalTime=1}]
+
+
+Process finished with exit code 0

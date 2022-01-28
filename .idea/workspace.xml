@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0c3cd1a0-a198-4224-a737-6c70dec1c36d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="24FNbcHJVcIhqHP4IzXJtnWunlN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Documents\My Files\UNI\term 5\OS\TaskProject\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Scheduling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Scheduling" />
+      <module name="TaskProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Scheduling" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0c3cd1a0-a198-4224-a737-6c70dec1c36d" name="Default Changelist" comment="" />
+      <created>1643222446050</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1643222446050</updated>
+      <workItem from="1643222450365" duration="22978000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="71" key="#Project_Structure" timestamp="1643222462781">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1643222462781" />
+    <state x="574" y="116" key="#com.intellij.ide.util.MemberChooser" timestamp="1643302528112">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="116" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1643302528112" />
+    <state width="1493" height="402" key="GridCell.Tab.0.bottom" timestamp="1643359701289">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="402" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1643359701289" />
+    <state width="1493" height="402" key="GridCell.Tab.0.center" timestamp="1643359701289">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="402" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1643359701289" />
+    <state width="1493" height="402" key="GridCell.Tab.0.left" timestamp="1643359701289">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="402" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1643359701289" />
+    <state width="1493" height="402" key="GridCell.Tab.0.right" timestamp="1643359701289">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="402" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1643359701289" />
+    <state width="1493" height="239" key="GridCell.Tab.1.bottom" timestamp="1643359272879">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="239" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1643359272879" />
+    <state width="1493" height="239" key="GridCell.Tab.1.center" timestamp="1643359272879">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="239" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1643359272879" />
+    <state width="1493" height="239" key="GridCell.Tab.1.left" timestamp="1643359272878">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="239" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1643359272878" />
+    <state width="1493" height="239" key="GridCell.Tab.1.right" timestamp="1643359272879">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="239" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1643359272879" />
+    <state x="785" y="234" key="extract.method.dialog" timestamp="1643305003256">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="785" y="234" key="extract.method.dialog/0.0.1536.824@0.0.1536.824" timestamp="1643305003256" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1643311006246">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1643311006246" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Scheduling.java</url>
+          <line>192</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
