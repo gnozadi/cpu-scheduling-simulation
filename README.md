@@ -1,7 +1,3 @@
-Based on the details extracted, here’s a GitHub README template with sections tailored for the scheduling simulation project.
-
----
-
 # CPU Scheduling Simulation
 
 **Description:**  
